@@ -8,18 +8,15 @@
 - Installation Steps
 - Install Cypress
 
-## Open your terminal and run the following command to install Cypress:
+## Open your terminal and run the following command to install Cypress in the project directory:
 
-- bash
 - Copy code:
   `npm install cypress --save-dev`
 - Initialize Cypress in Your Project
 
 ## Navigate to your project directory in the terminal and run:
 
-- bash
-- Copy code
-  `cypress open`
+  `npx cypress open`
 - Verify Installation
 
-Cypress will open its Test Runner interface, which verifies that it's installed correctly. You can close the Test Runner for now.
+
