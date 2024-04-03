@@ -59,5 +59,4 @@ describe('Register', () => {
     cy.contains("Password must meet the following rules: must have at least 6 characters").should('be.visible')
   })
 
-  
 })
